@@ -1,0 +1,9 @@
+clang
+-I/usr/local/include/
+-L/usr/local/lib/
+-lsfml-graphics
+-lsfml-window
+-lsfml-system
+-lsfml-audio
+-lsfml-network
+
